@@ -17,5 +17,6 @@ spring:
     mongodb:
       uri: mongodb://nuaa:yccy@nuaa.qiyuey.com:27027/blog
   jersey:
+    # 配置api访问路径
     application-path: api
 
